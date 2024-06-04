@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This text is no good!
